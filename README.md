@@ -39,7 +39,7 @@ Make sure you have the following installed before running the project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/pintoderian/next-directus-auth-ts.git
+git clone https://github.com/lamoht/Next-Mantine-Directus-Auth.git
 cd your-project
 ```
 
